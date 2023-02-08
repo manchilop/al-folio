@@ -2,24 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Software Engineering @ <a href='https://www.informatica.us.es/'>Universidad de Sevilla</a>. 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic1.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Ciudad del Betis💚</p>
+    <p>Sevilla, España</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey, thanks for stopping by! 👋
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am currently studying Software Engineering at Universidad de Sevilla and I have a passion for learning, I love learning new things.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I have always had a special interest in understanding how things work. How a company works, internet, computers. But I have realized that there is no use in reading a book and that's it, or learning a programming language and that's it. I believe that the good thing is to generate impact around me, go and with what I learned create something new that solves a problem. 
+Do not stay just in learning, be creative and move and do new things. 
+
+As a student, I have plenty of spare time and like spending that time learning new skills that will make me more useful and valuable. So that in the future I can start my own projects or play a big part in others. 
+
+Now, I would love to join a company where I can put into practise what I know, but mainly learn and master those useful skills. I feel it is actually the best way to learn useful abilities and efficient ways of working. From inside a company that is performing well in the market.

@@ -2,96 +2,68 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Manuel Chica López
     - name: Date of Birth
-      value: 14th March 1879
+      value: December 2001
     - name: Languages
-      value: English, German
+      value: Spanish, English
+    - name: Technical Skils
+      value: Java, Python, HTML/CSS/Javascript, SQL, UML, Bash, Wireshark
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Software Engineering
+      institution: Universidad de Sevilla, España
+      year: 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Check <a href="https://www.informatica.us.es/index.php/grados/ingenieria-del-software/plan-de-estudios">syllabus</a>
+    - title: High School
+      institution: IES Miguel Servet, Sevilla
+      year: 2019
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: WINNER - Hunger4Innovation 7th Edition
+      institution: <a href="https://hunger4innovation.com/">Hunger4Innovation</a> & <a href="https://www.tecnicasreunidas.es/">Técnicas Reunidas</a>
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Had 24 hours to work in a solution to a problem presented by Técnicas Reunidas in a team with 4 students I didn't know before working remotely.
+        - Our solution won, and collaborated with TR for the following 3 months developing the idea and adapting it to the circumstances of the company.
+        - title: Best things I learnt
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Work remotely
+
+    - title: WANTED 6th Edition
+      institution: <a href="https://espaciores.org/">espacio_RES</a> & Universidad de Sevilla
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
+        - One of the 30 selected students among Universidad de Sevilla that took part in the workshop on enterpreneurship.
+        - title: Best things I learnt
+          contents:
+            - How to do a perfect slideshow and give an effective presentation.
+            - How to create a good prototype and a useful MVP.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Volunteering
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: UEFA Europa League
+      institution: Accreditations
+      year: 2022
+      description:
+        - Took part in welcoming applicants in the accreditation centres, searching UEFA’s database for accreditation requests, taking pictures of the applicants for the accreditation passes, printing the passes and delivering them to the applicants. 
+        - title: What I learnt
+          contents:
+            - How a big event such as UEL FINAL is organized and managed succesfully.
+            - Ability to handle customers, cooperate with police.
+            - How different a passport can be😂
 
-- title: Honors and Awards
+- title: More experience
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Lifeguard
+      institution: Lexpool
+      year: 2019-2021
+      description: 
+        - First summer entered as a substitute, next one I was responsible for a private swimming pool.
